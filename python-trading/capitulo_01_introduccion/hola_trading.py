@@ -1,5 +1,5 @@
 # Capítulo 1 - Primer ejemplo de trading
-# Autor: Tu Libro de Python Trading - Versión corregida
+# Autor: Tu Libro de Python Trading - Versión corregida 2
 # Ejemplo básico de cálculo de precios
 print("=" * 50)
 print("¡Bienvenido al trading algorítmico con Python!")
